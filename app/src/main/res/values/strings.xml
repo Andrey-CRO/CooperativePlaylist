@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cooperative Playlist</string>
+    <string name="enable_p2p_button">WiFi Direct On/Off</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="add_song_button">Add song</string>
+    <string name="empty"></string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">PEERS</string>
+    <string name="help_instructions">This app is used to manage a playlist cooperatively.\n
+    Wi-Fi Direct (P2P) is used to connect Android devices together.\n\n
+    The person being connected to is the playlist/group owner.\n
+    The owner explicitly controls the playlist.\n
+    Peers connected to the owner can add songs to the playlist queue or vote to skip the current song (majority required).\n\n
+    As a shortcut, several actions can be performed by swiping:\n
+        swipe top - display playlist\n
+        swipe bottom - discover nearby devices\n
+        swipe right - add song to playlist\n
+        swipe left - vote to skip\n
+    </string>
+</resources>

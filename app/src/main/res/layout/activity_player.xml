@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="android.playlist.PlayerFragment">
+
+    <TextView
+        android:id="@+id/votes_skip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/player_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.google.android.exoplayer2.ui.PlayerView
+        android:id="@+id/player_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:auto_show="false"
+        app:resize_mode="fixed_height"
+        app:surface_type="texture_view"  />
+
+</LinearLayout>
