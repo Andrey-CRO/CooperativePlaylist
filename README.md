@@ -24,3 +24,6 @@ The application is based on [Google's WifiDirectDemo](https://android.googlesour
 
 [HaarigerHarald's Android based YouTube URL extractor](https://github.com/HaarigerHarald/android-youtubeExtractor) is used to extract audio from Youtube video sources.
 
+The .apk file used for installing the Android application can be found in the root of the repository.
+[VirusTotal scan of the .apk file](https://www.virustotal.com/gui/file/f4fb7bfc47d9e8260d44191b7ce36791bc645cab688fa916ded523d0e84417e9/detection)
+
