@@ -1,4 +1,4 @@
-# CooperativePlaylist
+# Cooperative Playlist
 Cooperative Playlist is an Android application that allows Android devices to connect locally and manage a playlist cooperatively. 
 
 <img src="https://user-images.githubusercontent.com/110786361/210132444-07350cfd-027d-4446-8542-7effadf07f6a.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/110786361/210132429-90a2d0ac-04c3-4220-a9c6-e954fb214e1a.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/110786361/210131931-b82c64b8-d5a3-4468-96cb-4c1149cc11e3.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/110786361/210132521-b5762e10-7600-4a32-82d4-cb7cf64c7e30.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/110786361/210132463-53b362b3-509d-4dd4-af74-fc2f7ed9b057.jpg" width="15%"></img> 
@@ -25,5 +25,6 @@ The application is based on [Google's WifiDirectDemo](https://android.googlesour
 [HaarigerHarald's Android based YouTube URL extractor](https://github.com/HaarigerHarald/android-youtubeExtractor) is used to extract audio from Youtube video sources.
 
 The .apk file used for installing the Android application can be found in the root of the repository.
+
 [VirusTotal scan of the .apk file](https://www.virustotal.com/gui/file/f4fb7bfc47d9e8260d44191b7ce36791bc645cab688fa916ded523d0e84417e9/detection)
 
